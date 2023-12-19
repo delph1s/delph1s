@@ -4,7 +4,7 @@
 
 <!-- shields -->
 
-<p style="text-align: center; vertical-align: center">
+<p align="center">
     <a href="https://github.com/delph1s/delph1s"><img src="https://img.shields.io/badge/status-updating-2DFF91"></a>
     <!-- <a href="https://github.com/rust-lang/rust"><img src="https://img.shields.io/badge/Rust-^1.74.1-FF2D9B?logo=rust&logoColor=white"></a> -->
     <!-- <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-^3.10-FF2D9B?logo=python&logoColor=white"></a> -->
