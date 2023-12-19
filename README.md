@@ -59,8 +59,6 @@
 
 ## License
 
----
-
 [![License](https://img.shields.io/badge/License-MIT-%23FF2D55?style=flat&labelColor=%235856D6&color=%23FF2D55)](https://github.com/delph1s/delph1s/blob/main/LICENSE)
 
 <!-- banner-bottom -->
