@@ -37,6 +37,12 @@
 | **OS**                                          | <<placeholder> skills.OS>                                       |
 | **Machine Learning / Deep Learning frameworks** | <<placeholder> skills.machineLearningAndDeepLearningFrameworks> |
 
+<!-- card stats -->
+
+| Github Stats                                                                                                                                 | Language Stats                                                                                                                |
+|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| ![delph1s' github stats](https://github-readme-stats.vercel.app/api?username=delph1s&show_icons=true&theme=algolia&include_all_commits=true) | ![delph1s' github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=delph1s&theme=algolia&layout=compact) |
+
 <!-- banner-bottom -->
 
 ![](assets/svg/banner-bottom.svg)
