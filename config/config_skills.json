@@ -1,0 +1,490 @@
+{
+  "language": [
+    {
+      "label": "",
+      "color": "#FF2D55",
+      "message": "Rust",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "rust",
+        "logoColor": "#FFFFFF",
+        "color": "#FF2D55"
+      }
+    },
+    {
+      "label": "",
+      "color": "#FF2D55",
+      "message": "Python",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "python",
+        "logoColor": "#FFFFFF",
+        "color": "#FF2D55"
+      }
+    },
+    {
+      "label": "",
+      "color": "#FF2D55",
+      "message": "Typescript",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "typescript",
+        "logoColor": "#FFFFFF",
+        "color": "#FF2D55"
+      }
+    }
+  ],
+  "toolsAndPlatform": [
+    {
+      "label": "",
+      "color": "#5856D6",
+      "message": "Rocket.Chat",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "rocketdotchat",
+        "logoColor": "#FFFFFF",
+        "color": "#5856D6"
+      }
+    },
+    "<br/>",
+    {
+      "label": "",
+      "color": "#5856D6",
+      "message": "Django",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "django",
+        "logoColor": "#FFFFFF",
+        "color": "#5856D6"
+      }
+    },
+    {
+      "label": "",
+      "color": "#5856D6",
+      "message": "FastAPI",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "fastapi",
+        "logoColor": "#FFFFFF",
+        "color": "#5856D6"
+      }
+    },
+    {
+      "label": "",
+      "color": "#5856D6",
+      "message": "NumPy",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "numpy",
+        "logoColor": "#FFFFFF",
+        "color": "#5856D6"
+      }
+    },
+    {
+      "label": "",
+      "color": "#5856D6",
+      "message": "pandas",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "pandas",
+        "logoColor": "#FFFFFF",
+        "color": "#5856D6"
+      }
+    },
+    {
+      "label": "",
+      "color": "#5856D6",
+      "message": "OpenCV",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "opencv",
+        "logoColor": "#FFFFFF",
+        "color": "#5856D6"
+      }
+    },
+    "<br/>",
+    {
+      "label": "",
+      "color": "#5856D6",
+      "message": "React",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "react",
+        "logoColor": "#FFFFFF",
+        "color": "#5856D6"
+      }
+    },
+    {
+      "label": "",
+      "color": "#5856D6",
+      "message": "Next.js",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "nextdotjs",
+        "logoColor": "#FFFFFF",
+        "color": "#5856D6"
+      }
+    },
+    {
+      "label": "",
+      "color": "#5856D6",
+      "message": "Ant Design",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "antdesign",
+        "logoColor": "#FFFFFF",
+        "color": "#5856D6"
+      }
+    },
+    {
+      "label": "",
+      "color": "#5856D6",
+      "message": "Apache ECharts",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "apacheecharts",
+        "logoColor": "#FFFFFF",
+        "color": "#5856D6"
+      }
+    },
+    "<br/>",
+    {
+      "label": "",
+      "color": "#5856D6",
+      "message": "HTML5",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "html5",
+        "logoColor": "#FFFFFF",
+        "color": "#5856D6"
+      }
+    },
+    {
+      "label": "",
+      "color": "#5856D6",
+      "message": "CSS3",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "css3",
+        "logoColor": "#FFFFFF",
+        "color": "#5856D6"
+      }
+    },
+    {
+      "label": "",
+      "color": "#5856D6",
+      "message": "Sass",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "sass",
+        "logoColor": "#FFFFFF",
+        "color": "#5856D6"
+      }
+    }
+  ],
+  "IDE": [
+    {
+      "label": "",
+      "color": "#007AFF",
+      "message": "CLion",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "clion",
+        "logoColor": "#FFFFFF",
+        "color": "#007AFF"
+      }
+    },
+    {
+      "label": "",
+      "color": "#007AFF",
+      "message": "PyCharm",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "pycharm",
+        "logoColor": "#FFFFFF",
+        "color": "#007AFF"
+      }
+    },
+    {
+      "label": "",
+      "color": "#007AFF",
+      "message": "WebStorm",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "webstorm",
+        "logoColor": "#FFFFFF",
+        "color": "#007AFF"
+      }
+    },
+    {
+      "label": "",
+      "color": "#007AFF",
+      "message": "DataGrip",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "datagrip",
+        "logoColor": "#FFFFFF",
+        "color": "#007AFF"
+      }
+    }
+  ],
+  "knownledge": [
+    {
+      "label": "",
+      "color": "#5AC8FA",
+      "message": "Economics",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "apple",
+        "logoColor": "#FFFFFF",
+        "color": "#5AC8FA"
+      }
+    },
+    {
+      "label": "",
+      "color": "#5AC8FA",
+      "message": "Statistics",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "apple",
+        "logoColor": "#FFFFFF",
+        "color": "#5AC8FA"
+      }
+    },
+    {
+      "label": "",
+      "color": "#5AC8FA",
+      "message": "Computer science",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "apple",
+        "logoColor": "#FFFFFF",
+        "color": "#5AC8FA"
+      }
+    },
+    {
+      "label": "",
+      "color": "#5AC8FA",
+      "message": "Software development",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "apple",
+        "logoColor": "#FFFFFF",
+        "color": "#5AC8FA"
+      }
+    }
+  ],
+  "ciAndCd": [
+    {
+      "label": "",
+      "color": "#4CD964",
+      "message": "Git",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "git",
+        "color": "#4CD964"
+      }
+    },
+    {
+      "label": "",
+      "color": "#4CD964",
+      "message": "Github",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "github",
+        "color": "#4CD964"
+      }
+    },
+    {
+      "label": "",
+      "color": "#4CD964",
+      "message": "Gitlab",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "gitlab",
+        "color": "#4CD964"
+      }
+    }
+  ],
+  "databases": [
+    {
+      "label": "",
+      "color": "#FFCC00",
+      "message": "PostgreSQL",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "postgresql",
+        "color": "#FFCC00"
+      }
+    },
+    {
+      "label": "",
+      "color": "#FFCC00",
+      "message": "MongoDB",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "mongodb",
+        "color": "#FFCC00"
+      }
+    },
+    {
+      "label": "",
+      "color": "#FFCC00",
+      "message": "SQLite",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "sqlite",
+        "color": "#FFCC00"
+      }
+    },
+    {
+      "label": "",
+      "color": "#FFCC00",
+      "message": "MySQL",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "mysql",
+        "color": "#FFCC00"
+      }
+    }
+  ],
+  "OS": [
+    {
+      "label": "",
+      "color": "#FF9500",
+      "message": "macOS",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "macos",
+        "color": "#FF9500"
+      }
+    },
+    {
+      "label": "",
+      "color": "#FF9500",
+      "message": "Linux",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "linux",
+        "color": "#FF9500"
+      }
+    },
+    {
+      "label": "",
+      "color": "#FF9500",
+      "message": "Windows",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "windows",
+        "color": "#FF9500"
+      }
+    },
+    "<br/>",
+    {
+      "label": "",
+      "color": "#FF9500",
+      "message": "Arch Linux",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "archlinux",
+        "color": "#FF9500"
+      }
+    },
+    {
+      "label": "",
+      "color": "#FF9500",
+      "message": "Manjaro",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "manjaro",
+        "color": "#FF9500"
+      }
+    },
+    {
+      "label": "",
+      "color": "#FF9500",
+      "message": "Fedora",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "fedora",
+        "color": "#FF9500"
+      }
+    },
+    {
+      "label": "",
+      "color": "#FF9500",
+      "message": "Debian",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "debian",
+        "color": "#FF9500"
+      }
+    },
+    {
+      "label": "",
+      "color": "#FF9500",
+      "message": "Ubuntu",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "ubuntu",
+        "color": "#FF9500"
+      }
+    },
+    {
+      "label": "",
+      "color": "#FF9500",
+      "message": "Kubuntu",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "kubuntu",
+        "color": "#FF9500"
+      }
+    }
+  ],
+  "machineLearningAndDeepLearningFrameworks": [
+    {
+      "label": "",
+      "color": "#FF3B30",
+      "message": "Jupyter",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "jupyter",
+        "logoColor": "#FFFFFF",
+        "color": "#FF3B30"
+      }
+    },
+    {
+      "label": "",
+      "color": "#FF3B30",
+      "message": "SciPy",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "scipy",
+        "logoColor": "#FFFFFF",
+        "color": "#FF3B30"
+      }
+    },
+    {
+      "label": "",
+      "color": "#FF3B30",
+      "message": "scikit-learn",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "scikitlearn",
+        "logoColor": "#FFFFFF",
+        "color": "#FF3B30"
+      }
+    },
+    {
+      "label": "",
+      "color": "#FF3B30",
+      "message": "PyTorch",
+      "query_params": {
+        "style": "FLAT",
+        "logo": "pytorch",
+        "logoColor": "#FFFFFF",
+        "color": "#FF3B30"
+      }
+    }
+  ]
+}

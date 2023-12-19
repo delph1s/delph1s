@@ -20,6 +20,10 @@
 
 ![](assets/img/banner-header.png)
 
+<!-- ticker -->   
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=800&pause=1000&center=true&vCenter=true&random=false&width=900&height=66&lines=Hi+there+%F0%9F%91%8B%2C+I+am+delph1s.;Welcome+to+My+Profile!;Stay+learning%2C+stay+hungry!)](https://git.io/typing-svg)
+
 <!-- skills -->
 
 | Key                                             | Value                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |

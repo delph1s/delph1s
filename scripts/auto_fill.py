@@ -176,16 +176,15 @@ def fill_skills(markdown_text: str, skills_config: dict) -> dict:
 
 if __name__ == "__main__":
     # 读取配置文件
-    with open(BASE_DIR / "config" / "readme.json", "r") as f:
-        config = json.load(f)
+    with open(BASE_DIR / "config" / "config_skills.json", "r") as f:
+        config_skills = json.load(f)
     # 读取模板文件
     with open(BASE_DIR / "template" / "README.template.md", "r") as f:
         readme_template = f.read()
 
     readme_text = readme_template
-
-    if "skills" in config:
-        readme_text = fill_skills(readme_template, config["skills"])
+    # 填充 skills
+    readme_text = fill_skills(readme_text, config_skills)
 
     with open(BASE_DIR / "README.md", "w") as f:
         f.write(readme_text)
