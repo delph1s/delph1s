@@ -24,4 +24,8 @@ Demo: [Readme Typing SVG Demo](https://readme-typing-svg.demolab.com/demo/)
 
 主页: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
-主题: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
+主题: [GitHub Readme Stats Theme](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
+
+## Github star 历史
+
+主页: [Star History](https://star-history.com/#delph1s/delph1s&Date)

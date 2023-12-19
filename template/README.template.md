@@ -43,6 +43,26 @@
 |----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | ![delph1s' github stats](https://github-readme-stats.vercel.app/api?username=delph1s&show_icons=true&theme=algolia&include_all_commits=true) | ![delph1s' github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=delph1s&theme=algolia&layout=compact) |
 
+#### Thank you for visiting and staring :heart:
+
+<!-- star history -->
+
+<a href="https://star-history.com/#delph1s/delph1s&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=delph1s/delph1s&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=delph1s/delph1s&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=delph1s/delph1s&type=Date" />
+  </picture>
+</a>
+
+<!-- license -->
+
+## License
+
+---
+
+[![License](https://img.shields.io/badge/License-MIT-%23FF2D55?style=flat&labelColor=%235856D6&color=%23FF2D55)](https://github.com/delph1s/delph1s/blob/main/LICENSE)
+
 <!-- banner-bottom -->
 
 ![](assets/svg/banner-bottom.svg)
