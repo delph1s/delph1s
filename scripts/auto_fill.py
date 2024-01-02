@@ -116,6 +116,15 @@ def batch_gen_static_badge_markdown_link(badges: list, sep: str = " ") -> str:
     return sep.join(new_list)
 
 
+def fill_shields(markdown_text: str, user: str, repo: str) -> str:
+    ret = markdown_text
+
+    ret = ret.replace("<<placeholder> shields.user>", user)
+    ret = ret.replace("<<placeholder> shields.repo>", repo)
+
+    return ret
+
+
 def fill_skills(markdown_text: str, skills_config: dict) -> dict:
     ret = markdown_text
 
@@ -183,6 +192,8 @@ if __name__ == "__main__":
         readme_template = f.read()
 
     readme_text = readme_template
+    # 填充 shields
+    readme_text = fill_shields(readme_text, "delph1s", "delph1s")
     # 填充 skills
     readme_text = fill_skills(readme_text, config_skills)
 
